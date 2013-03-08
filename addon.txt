@@ -1,0 +1,14 @@
+"AddonInfo"
+{
+	"name" "PistachioRP Content"
+	"author_name" "author"
+	"info" "The content for the PistachioRP server.
+
+Includes:
+ - Source Vehicles
+ - Other content for Pistachio (materials/models)
+
+Join @ 74.63.224.155:27029
+
+Get the map @ http://the-revive.com/files/?nav=download&file=78"
+}
